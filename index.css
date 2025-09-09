@@ -1,0 +1,23 @@
+*
+{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#logoContainer
+{
+	margin-top: 100px;
+
+	text-align: center;
+}
+
+#logoContainer img
+{
+	width: 600px;
+}
+
+#infoText
+{
+	text-align: center;
+
+	color: rgb(160, 160, 160);
+}
